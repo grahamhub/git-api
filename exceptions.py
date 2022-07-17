@@ -1,0 +1,2 @@
+class NoApiTokenException(Exception):
+    pass
